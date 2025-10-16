@@ -15,25 +15,31 @@ I'm passionate about building high-impact, accessible user interfaces. I thrive 
 
 ### [Legislative Assembly of Ontario - Online Calendar](https://github.com/e-laflamme/legislative-calendar-portfolio)
 **Role:** Junior Developer  
-**Summary:** Contributed to the public-facing calendar for the Ontario Legislature.  
-- Designed and implemented key UI components
-- Created reusable Drupal patterns to save development time
-- Developed custom date pickers, tab and search bar animations
-- Styled the month page for accessibility and clarity
-- *Note: Code not public, but see repo for case study, screenshots, and design documentation.*
+**Summary:** On a small team of devs, built an online calender for the Ontario Legislature.
+- *Note: Code not public, see repo for screenshots and process notes.*
 
-### [Legislative Assembly Game Project](https://github.com/e-laflamme/legislative-game-portfolio)
+### [Legislative Assembly of Ontario - Educational Game](https://github.com/e-laflamme/legislative-game-portfolio)
 **Role:** Junior Developer  
-**Summary:** Developed a web-based game (unpublished) for educational engagement.  
-- Designed game UI and all visual assets
-- Led front-end architecture and prototyping  
-- *Note: Code not public, but see repo for screenshots and process notes.*
+**Summary:** Developed a web-based game (unpublished) with an AUS score of 100/100 to increase educational engagement on the Ontario Legislature's website.
+- *Note: Code not public, see repo for screenshots and process notes.*
+
+### [AKA Energy Systems - Landing Page Design](https://github.com/e-laflamme/aka-portfolio)
+**Role:** Freelance Developer  
+**Summary:** Developed 2 high-impact landing pages for a Canadian energy and defence company. 
+- *Note: Code not public, see repo for screenshots and process notes.*
+
+### [Algoware](https://github.com/e-laflamme/Algoware)
+**Hackathon:** GenAI Genesis 2025
+**Summary:** Developed an AI-based chrome extension to track topic and sentiment of YouTube recommendations. 
+
+### [Curse of the Songbirds](https://github.com/faizahsayyid/gmtk-2025)
+**Game Jam:** GMTK-2025
+**Summary:** Developed a platformer using Unity in under 72 hours. Featured a bard player character which could fight off enemeis with magic based attacks set on loops.
 
 ---
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/emily-coffen/)
 
----
 
 *I love collaborating with teams that value user-centered design and creativity!*
