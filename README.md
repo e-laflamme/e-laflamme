@@ -28,6 +28,8 @@ I'm passionate about building high-impact, accessible user interfaces. I thrive 
 **Summary:** Developed 2 high-impact landing pages for a Canadian energy and defence company. 
 - *Note: Code not public, see repo for screenshots and process notes.*
 
+---
+
 ## 🌟 Featured Projects
 
 ### [Algoware](https://github.com/e-laflamme/Algoware)
