@@ -29,17 +29,17 @@ I'm passionate about building high-impact, accessible user interfaces. I thrive 
 - *Note: Code not public, see repo for screenshots and process notes.*
 
 ### [Algoware](https://github.com/e-laflamme/Algoware)
-**Hackathon:** GenAI Genesis 2025
-**Summary:** Developed an AI-based chrome extension to track topic and sentiment of YouTube recommendations. 
+**Hackathon:** GenAI Genesis 2025<br>
+**Summary:** Developed an AI-based chrome extension to track topic and sentiment of YouTube recommendations.
 
 ### [Curse of the Songbirds](https://github.com/faizahsayyid/gmtk-2025)
-**Game Jam:** GMTK-2025
+**Game Jam:** GMTK-2025<br>
 **Summary:** Developed a platformer using Unity in under 72 hours. Featured a bard player character which could fight off enemeis with magic based attacks set on loops.
 
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/emily-coffen/)
+[LinkedIn](https://www.linkedin.com/in/emily-coffen/)
 
 
 *I love collaborating with teams that value user-centered design and creativity!*
