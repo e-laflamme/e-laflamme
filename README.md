@@ -11,7 +11,7 @@ I'm passionate about building high-impact, accessible user interfaces. I thrive 
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Client Work
 
 ### [Legislative Assembly of Ontario - Online Calendar](https://github.com/e-laflamme/legislative-calendar-portfolio)
 **Role:** Junior Developer  
@@ -27,6 +27,8 @@ I'm passionate about building high-impact, accessible user interfaces. I thrive 
 **Role:** Freelance Developer  
 **Summary:** Developed 2 high-impact landing pages for a Canadian energy and defence company. 
 - *Note: Code not public, see repo for screenshots and process notes.*
+
+## 🌟 Featured Projects
 
 ### [Algoware](https://github.com/e-laflamme/Algoware)
 **Hackathon:** GenAI Genesis 2025<br>
