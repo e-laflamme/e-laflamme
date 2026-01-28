@@ -1,12 +1,12 @@
 # Hi, I'm Emily Coffen 💫
 
-**Software Developer | Front-End Specialist | UI/UX Designer**
+**Full-Stack Software Developer | Front-End Specialist**
 
-I'm passionate about building high-impact, accessible user interfaces. I thrive in early-stage environments where I can directly shape user experience and product direction.
+I'm passionate about building high-impact, accessible applications. I thrive in early-stage environments where I can directly shape user experience and product direction.
 
-- **Skills:** Front-End Development, UI/Graphic Design, Relational Databases, Accessibility
-- **Languages:** Java, JavaScript, HTML, CSS, Python, C#, PHP, XML, YAML, TWIG, SQL
-- **Dev Tools:** Node, React, Tailwind, Git, NetBeans, Figma, Godot, Drupal
+- **Skills:** Full-Stack Development, UI/Graphic Design, Relational Databases, Accessibility
+- **Languages:** Java, TypeScript, HTML, CSS, Python, C#, PHP, XML, YAML, TWIG, SQL
+- **Tools, Frameworks, & Platforms:** Node, React, Tailwind, Git, NetBeans, Figma, Drupal
 - **Interests:** Space, Environmentalism, Digital Art (I make many of my own assets!)
 
 ---
