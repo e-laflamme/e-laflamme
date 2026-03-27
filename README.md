@@ -38,7 +38,7 @@ I'm passionate about building high-impact, accessible applications. I thrive in 
 
 ### [Curse of the Songbirds](https://github.com/faizahsayyid/gmtk-2025)
 **Game Jam:** GMTK-2025<br>
-**Summary:** Developed a platformer using Unity in under 72 hours. Featured a bard player character which could fight off enemeis with magic based attacks set on loops.
+**Summary:** Developed a platformer using Unity in under 72 hours. Featured a bard player character which could fight off enemies with magic based attacks set on loops.
 
 ---
 
